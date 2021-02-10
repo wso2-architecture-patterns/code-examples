@@ -1,4 +1,4 @@
-# code-examples
+# Code Examples for WSO2 Solutions
 Source code used to implement WSO2 solution architecture patterns
 
 - [Streaming Integration Samples](https://github.com/chanakaudaya/streaming-integration-samples)
