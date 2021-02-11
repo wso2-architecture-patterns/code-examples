@@ -23,6 +23,8 @@ Source code used to implement WSO2 solution architecture patterns
 - [ISO8583 class mediator](https://github.com/vanjikumaran/ISO8583Mediator)
 - [Payload compare mediator](https://github.com/vanjikumaran/PayloadCompareMediator)
 - [Synapse log handler](https://github.com/vanjikumaran/SynapseLogHandler)
+- [Class mediator for database paging](https://github.com/chanakaudaya/class-mediator-database-paging)
+
 
 
 ## WSO2 Streaming Integrator
