@@ -10,6 +10,8 @@ Source code used to implement WSO2 solution architecture patterns
 - [JWT Authentication Handler for APIM](https://github.com/vanjikumaran/JWTAuthenticationHandler)
 - [Sample custom handler for WSO2 APIM](https://github.com/vanjikumaran/CustomHandler)
 - [Query parameter white list handler](https://github.com/vanjikumaran/CustomHandler)
+- [Implement SPA with WSO2 APIM](https://github.com/dunithd/react-pizzashack-client)
+
 
 
 ## WSO2 Enterprise Integrator/ESB
@@ -24,6 +26,7 @@ Source code used to implement WSO2 solution architecture patterns
 - [Payload compare mediator](https://github.com/vanjikumaran/PayloadCompareMediator)
 - [Synapse log handler](https://github.com/vanjikumaran/SynapseLogHandler)
 - [Class mediator for database paging](https://github.com/chanakaudaya/class-mediator-database-paging)
+- [Competing consumers pattern with WSO2 EI sample](https://github.com/dunithd/competing-consumers-wso2)
 
 
 
@@ -34,6 +37,7 @@ Source code used to implement WSO2 solution architecture patterns
 ## WSO2 Identity Server
 
 - [Custom logger for WSO2 IS](https://github.com/chanakaudaya/WSO2-IS-Custom-Logger)
+- [Repository with WSO2 IAM blogs](https://github.com/prabath/wso2-iam-blogs)
 
 
 ## WSO2 Products (except above)
